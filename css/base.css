@@ -1,0 +1,55 @@
+/**
+ * Reset browser defaults.
+ */
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote,th,td{margin:0;padding:0;}
+img,body,html{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
+ol,ul {list-style:none;}
+caption,th {text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+q:before,q:after{content:'';}
+
+
+/**
+ * Web font definition.
+ */
+@font-face {font-family: 'PT Sans'; 
+	src: url('../ptsans/pts55f.eot'); 
+	src: local('PT Sans'), url('../ptsans/pts55f.woff') format('woff'), url('../ptsans/pts55f.ttf') format('truetype');}
+
+@font-face {font-family: 'PT Sans'; 
+	font-style: italic;
+	src: url('../ptsans/pts56f.eot'); 
+	src: local('PT Sans Italic'), url('../ptsans/pts56f.woff') format('woff'), url('../ptsans/pts56f.ttf') format('truetype');}
+
+@font-face {font-family: 'PT Sans';
+	src: url('../ptsans/pts75f.eot');
+	font-style: normal;
+	font-weight: bold; 
+	src: local('PT Sans Bold'), url('../ptsans/pts75f.woff') format('woff'), url('../ptsans/pts75f.ttf') format('truetype');}
+
+@font-face {font-family: 'PT Sans';
+	font-style: italic;
+	font-weight: bold; 
+	src: url('../ptsans/pts76f.eot'); 
+	src: local('PT Sans Bold Italic'), url('../ptsans/pts76f.woff') format('woff'), url('../ptsans/pts76f.ttf') format('truetype');}
+
+@font-face {font-family: 'PT Sans Caption'; 
+	src: url('../ptsans/ptc55f.eot');
+	src: local('PT Sans Caption'), url('../ptsans/ptc55f.woff') format('woff'), url('../ptsans/ptc55f.ttf') format('truetype');}
+
+@font-face {font-family: 'PT Sans Caption';
+	font-weight: bold; 
+	src: url('../ptsans/ptc75f.eot');
+	src: local('PT Sans Caption Bold'), url('../ptsans/ptc75f.woff') format('woff'), url('../ptsans/ptc75f.ttf') format('truetype');}
+
+@font-face {font-family: 'PT Sans Narrow';
+	src: url('../ptsans/ptn57f.eot');
+	src: local('PT Sans Narrow'), url('../ptsans/ptn57f.woff') format('woff'), url('../ptsans/ptn57f.ttf') format('truetype');}
+
+@font-face {font-family: 'PT Sans Narrow';
+	font-weight: bold; 
+	src: url('../ptsans/ptn77f.eot');
+	src: local('PT Sans Narrow Bold'), url('../ptsans/ptn77f.woff') format('woff'), url('../ptsans/pts77f.ttf') format('truetype');}
+
+
