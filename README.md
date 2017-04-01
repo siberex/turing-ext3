@@ -8,5 +8,7 @@ Naive implementation of [Turing Machine](https://en.wikipedia.org/wiki/Turing_ma
 
 Watch it live here: [http://www.sib.li/turing/](http://www.sib.li/turing/)
 
+or here: [http://siberex.github.io/turing-ext3/](http://siberex.github.io/turing-ext3/)
+
 
 Created for fun back in 2010 by Stepan Legachev (me@sib.li)
